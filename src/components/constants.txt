@@ -1,0 +1,14 @@
+You must create a constants.js file in the same level of this file with the following content
+
+<code type=javascript>
+
+const constants = {
+	logo: '',
+	appName: '',
+	urlBackend: '',
+	urlApp: '',
+}
+
+export default constants;
+
+</code>
